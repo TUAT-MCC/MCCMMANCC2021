@@ -1,10 +1,10 @@
 {
-  "name": "mccmmancc2018",
+  "name": "mccmmancc2021",
   "version": "0.0.1",
   "description": "LT & Recreation Party - Exciting party among MCC & MMA & NCC",
   "main": "index.js",
-  "repository": "https://github.com/uecmma/MCCMMANCC2018.git",
-  "author": "mizdra <pp.mizdra@gmail.com>",
+  "repository": "https://github.com/riceball0712/MCCMMANCC2021.git",
+  "author": "riceball0712 <riceball0712@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
