@@ -3,7 +3,11 @@
   "version": "0.0.1",
   "description": "LT & Recreation Party - Exciting party among MCC & MMA & NCC",
   "main": "index.js",
+<<<<<<< HEAD
   "repository": "https://github.com/riceball0712/MMCMMANCC2021.git",
+=======
+  "repository": "https://github.com/riceball0712/MCCMMANCC2021.git",
+>>>>>>> fa754c89e19e0bd0459e278bb462fbddb44a0a63
   "author": "riceball0712 <riceball0712@gmail.com>",
   "license": "MIT",
   "private": true,
